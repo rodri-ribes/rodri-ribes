@@ -1,4 +1,4 @@
-### 👋 Hello! I'm Rodrigo Ribes and I live in Buenos Aires, Argentina. 🌍
+### 👋 Hello! I'm Rodrigo Ribes and i'm from Buenos Aires, Argentina 🌍
 
 >I am a Full-Stack Developer 💻, but I stand out more in the Front End, I am passionate about the user interface, animations and the creation of intuitive and dynamic user experiences.
 
