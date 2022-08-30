@@ -4,5 +4,5 @@
 
 ### You can contact me at
 > **Email:** 📧 rodri_ribes@hotmail.com
-> **Linkedin:** https://www.linkedin.com/in/rodrigo-ribes/
-> **Portfolio:** https://rodrigoribes.netlify.app/
+> **Linkedin:** [/rodri-ribes](https://www.linkedin.com/in/rodrigo-ribes/)
+> **Portfolio:** [Link](https://rodrigoribes.netlify.app/)  
