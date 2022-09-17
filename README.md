@@ -5,7 +5,7 @@
 ### Skills
 *Lenguages:*  JavaScript, TypeScript
 
-*Front End:*  HTML, CSS, SASS, React JS, Redux JS, Next JS, Angular JS
+*Front End:*  HTML, CSS, SASS, React JS, Redux JS, Next JS, Angular 13
 
 *Back End:*  Node JS, Express JS, Sequelize - ORM, PostgresSQL, Mongoose - ODM, MongoDB
 
