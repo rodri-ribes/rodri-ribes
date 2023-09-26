@@ -1,14 +1,18 @@
 ## 👋 Hello! I'm Rodrigo Ribes and i'm from Buenos Aires, Argentina 🌍
 
->I am a Full Stack Developer 💻, but I stand out more in the Front End, I am passionate about the user interface, animations and the creation of intuitive and dynamic user experiences.
+>Full Stack Developer 💻, specialized in interface design. My passion lies in designing scalable projects, where animations and the creation of intuitive and dynamic user experiences are my primary focus. Always striving for innovation and excellence in every project. 🚀
 
 ### Skills
-*Lenguages:*  JavaScript, TypeScript
 
-*Front End:*  HTML, CSS, SASS, React JS, Redux JS, Next JS, Angular 13
+*Programming Languages:* HTML, JavaScript, TypeScript, Java
 
-*Back End:*  Node JS, Express JS, Sequelize - ORM, PostgresSQL, Mongoose - ODM, MongoDB
+*Data Base:* PostgreSQL, MongoDB
 
+*Frameworks:* SASS, Angular +v6, Next JS, Redux JS, Express JS, Mongoose ODM, Sequelize ORM
+
+*Bookstores:* React JS, Node JS
+
+*Applications:* Git, Github, Firebase, Adobe Photoshop, Jira, Docker
 
 ### You can contact me at
 ***
