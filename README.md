@@ -2,7 +2,7 @@
 
 >Full Stack Developer 💻, specialized in interface design. My passion lies in designing scalable projects, where animations and the creation of intuitive and dynamic user experiences are my primary focus. Always striving for innovation and excellence in every project. 🚀
 
-### Skills
+## Skills
 
 *Programming Languages:* HTML, JavaScript, TypeScript, Java
 
@@ -14,7 +14,7 @@
 
 *Applications:* Git, Github, Firebase, Adobe Photoshop, Jira, Docker
 
-### You can contact me at
+## You can contact me at
 ***
  #### **Email:** rodri_ribes@hotmail.com
  #### **Linkedin:** [/rodri-ribes](https://www.linkedin.com/in/rodrigo-ribes/)
