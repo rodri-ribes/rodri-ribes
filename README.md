@@ -18,5 +18,5 @@
 ***
  #### **Email:** rodri_ribes@hotmail.com
  #### **Linkedin:** [/rodri-ribes](https://www.linkedin.com/in/rodrigo-ribes/)
- #### **Portfolio:** [Link](https://rodrigoribes.netlify.app/)  
+ #### **Portfolio:** [Link](https://rodrigoribes.vercel.app/)  
 ***
